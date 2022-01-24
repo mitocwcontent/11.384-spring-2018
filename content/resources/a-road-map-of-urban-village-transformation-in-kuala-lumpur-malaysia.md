@@ -7,9 +7,9 @@ title: A Road Map of Urban Village Transformation in Kuala Lumpur, Malaysia
 uid: 68b392aa-d67e-926c-9ae9-4befe7ba5e5a
 video_files:
   archive_url: https://archive.org/download/MIT11.384F15/MIT11_384F15_Norsidah_300k.mp4
-  video_captions_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/294a4357179356d9bb14ca94ab12558b_AuSAXLGGnXU.vtt
+  video_captions_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/994356448ce65c14b592cff116fc9dcf_AuSAXLGGnXU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/AuSAXLGGnXU/default.jpg
-  video_transcript_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/3f779c51c620447bc1fe286a3068f299_AuSAXLGGnXU.pdf
+  video_transcript_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/52a2d4cebf16ba1f67bad52fcd94e73b_AuSAXLGGnXU.pdf
 video_metadata:
   youtube_id: AuSAXLGGnXU
 ---

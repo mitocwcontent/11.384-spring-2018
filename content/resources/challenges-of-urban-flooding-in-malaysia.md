@@ -7,9 +7,9 @@ title: Challenges of Urban Flooding in Malaysia
 uid: 7b8b5216-524c-9f46-d122-7f73d597f29e
 video_files:
   archive_url: https://archive.org/download/MIT11.384F15/MIT11_384F15_Tej_300k.mp4
-  video_captions_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/4d15c052de1f57858dfb462cf0511f58_JlKqhxwezkg.vtt
+  video_captions_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/6e0be9778df350039dc90f701e32a8af_JlKqhxwezkg.vtt
   video_thumbnail_file: https://img.youtube.com/vi/JlKqhxwezkg/default.jpg
-  video_transcript_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/82d225bd8bf1f1d60f9a72590e0df381_JlKqhxwezkg.pdf
+  video_transcript_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/1df499f18aa7c1045400e4bca82fa0da_JlKqhxwezkg.pdf
 video_metadata:
   youtube_id: JlKqhxwezkg
 ---

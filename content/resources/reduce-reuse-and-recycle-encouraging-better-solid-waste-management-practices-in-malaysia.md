@@ -8,9 +8,9 @@ title: '"Reduce, Reuse and Recycle", Encouraging Better Solid Waste Management P
 uid: 13be27f7-358c-939a-ff91-d5e861085d19
 video_files:
   archive_url: https://archive.org/download/MIT11.384F15/MIT11_384F15_Zainura_300k.mp4
-  video_captions_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/85948ea5181556ad92bd09420ff31ba8_0oXquNdvAnk.vtt
+  video_captions_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/d0199f2ca92f5f65abd5c2b16e89187e_0oXquNdvAnk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/0oXquNdvAnk/default.jpg
-  video_transcript_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/034efd32e2824d864864933ac263a985_0oXquNdvAnk.pdf
+  video_transcript_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/b3922262d9c636b3d93e7ef7d9e8ef60_0oXquNdvAnk.pdf
 video_metadata:
   youtube_id: 0oXquNdvAnk
 ---

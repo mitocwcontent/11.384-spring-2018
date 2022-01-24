@@ -7,9 +7,9 @@ title: Promoting Low Carbon Development in Johor Bahru
 uid: aae57c2e-0421-ed68-e1b3-5afa5df2d50e
 video_files:
   archive_url: https://archive.org/download/MIT11.384F15/MIT11_384F15_Azeez_300k.mp4
-  video_captions_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/52b8e48ddb2a598a8d7af34b673cf77f_IlkbvrpAbPU.vtt
+  video_captions_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/2c521fff20e8535eb4809d570743aa08_IlkbvrpAbPU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/IlkbvrpAbPU/default.jpg
-  video_transcript_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/085cded752ade260c64f6f530971f7f8_IlkbvrpAbPU.pdf
+  video_transcript_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/0e344620c471cdc311631c779238d04e_IlkbvrpAbPU.pdf
 video_metadata:
   youtube_id: IlkbvrpAbPU
 ---
